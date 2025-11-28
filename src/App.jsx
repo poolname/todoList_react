@@ -11,7 +11,7 @@ const mockupData = [
     id: 2,
     check: false,
     content: "TypeScript 공부하기",
-    date: new Date().getTime(),
+    date: new Date().getTime() - 1,
   },
   {
     id: 1,
