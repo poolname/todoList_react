@@ -1,3 +1,6 @@
+![기능 이미지 설명](images/todolist_main.jpg)
+![lighthouse 점수](images/todolist_lighthouse.jpg)
+
 1. 투두 관리 기능 (CRUD Operations)
 - 추가 (Create): 사용자가 내용을 입력하고 '추가' 버튼을 누르거나 Enter 키를 입력하여 새로운 할 일을 목록에 추가할 수 있습니다.
 빈 내용 입력 시 추가되지 않고 입력창에 포커싱됩니다.
