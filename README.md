@@ -1,4 +1,6 @@
-링크 주소 : https://poolnametodolist.netlify.app/
+# TodoList_react
+[![Live Demo](https://img.shields.io/badge/사이트-바로가기-blue)](https://poolnametodolist.netlify.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-소스코드-181717?logo=github)](https://github.com/poolname/todoList_react)
 
 ## Language
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
