@@ -1,5 +1,15 @@
 링크 주소 : https://poolnametodolist.netlify.app/
 
+Language
+JavaScript	![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+React ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+Build
+npm	![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+Visual Studio Code	![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+Vite 또는 Webpack (빌드 툴)	![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+
 ![기능 이미지 설명](images/todolist_main.jpg)
 ![lighthouse 점수](images/todolist_lighthouse.jpg)
 
