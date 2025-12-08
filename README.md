@@ -1,7 +1,12 @@
 # 실행화면
 ![](https://velog.velcdn.com/images/lkm021/post/1ab2d643-51c3-4707-83fd-da212c60e05c/image.gif)
+(todo 내용을 입력해 todo를 추가하는 화면)
+
 ![](https://velog.velcdn.com/images/lkm021/post/5649ee14-54ed-4ff8-8220-422741d0120e/image.gif)
+(todo를 삭제하고, check를 눌러 Count 개수를 확인)
+
 ![](https://velog.velcdn.com/images/lkm021/post/016aef9b-ea02-4fd9-a3a0-72cc11debb01/image.gif)
+(대문자, 소문자 검색을 통해 todo 업데이트 확인)
 
 # TodoList_react
 [![Live Demo](https://img.shields.io/badge/사이트-바로가기-blue)](https://poolnametodolist.netlify.app/)
