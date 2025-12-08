@@ -1,3 +1,8 @@
+# 실행화면
+![](https://velog.velcdn.com/images/lkm021/post/1ab2d643-51c3-4707-83fd-da212c60e05c/image.gif)
+![](https://velog.velcdn.com/images/lkm021/post/5649ee14-54ed-4ff8-8220-422741d0120e/image.gif)
+![](https://velog.velcdn.com/images/lkm021/post/016aef9b-ea02-4fd9-a3a0-72cc11debb01/image.gif)
+
 # TodoList_react
 [![Live Demo](https://img.shields.io/badge/사이트-바로가기-blue)](https://poolnametodolist.netlify.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-소스코드-181717?logo=github)](https://github.com/poolname/todoList_react)
